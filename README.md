@@ -17,6 +17,6 @@ A web-based application that performs real-time **speech-to-text transcription**
 
 ## 🚀 Live Demo
 
-Try it live at: **[your-vercel-deployment-url]**
-Navigate to Technical Documentation file for better understanding.
-Navigate to user guide file to learn how to use.
+Try it live at: **https://medical-translator.vercel.app/**
+- Navigate to Technical Documentation file for better understanding.
+- Navigate to user guide file to learn how to use.
